@@ -1,5 +1,4 @@
 <img src="https://media.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif" width="100%">
-<h1 align="center">Hi 👋, I'm Dev Hong Son Nguyen</h1>
 <br>
 <br>
 <p align="center">
